@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Paging\n"
+"POT-Creation-Date: 2015-03-20 16:05+0100\n"
+"PO-Revision-Date: 2015-03-20 20:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: Tomek <tomek.maestro@gmail.com>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: c:\\wamp\\www\\wp41b1\\assets\\modul\\paging\n"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:18
+msgid "Post Paging settings"
+msgstr "Post Paging beállításai"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:28
+msgid "Position:"
+msgstr "Pozíció:"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:30
+msgid "Top"
+msgstr "Tetején"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:31
+msgid "Middle"
+msgstr "Középen"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:32
+msgid "Bottom"
+msgstr "Alul"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:35
+msgid "Background color:"
+msgstr "Háttérszín:"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:38
+msgid "Set as transparent"
+msgstr "Beállítás átlátszóként"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:41
+msgid "Text color:"
+msgstr "Szöveg színe"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:44
+msgid "Hover color:"
+msgstr "Hover színe:"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:47
+msgid "Font family:"
+msgstr "Betűtípus:"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:50
+msgid "Font size (numbers only):"
+msgstr "Betűméret (csak számok):"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:53
+msgid "Previous post text:"
+msgstr "Előző bejegyzés szövege:"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:56
+msgid "Next post text:"
+msgstr "Következő bejegyzés szövege:"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:59
+msgid "Text decoration:"
+msgstr "Szöveg díszítése:"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:61
+msgid "None"
+msgstr "Semmi"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:62
+msgid "Underline"
+msgstr "Aláhúzott"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:63
+msgid "Overline"
+msgstr "Föléhúzott"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:64
+msgid "Line-through"
+msgstr "Áthúzott"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:67
+msgid "Show post title"
+msgstr "Bejegyzés címének megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:70
+msgid "Use Image"
+msgstr "Képek használata"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:73
+msgid "Previous post image (full URL):"
+msgstr "Előző bejegyzés képe (teljes URL):"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:76
+msgid "Next post image (full URL):"
+msgstr "Következő bejegyzés képe (teljes URL):"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:79
+msgid "Images width (numbers only):"
+msgstr "Kép szélessége (csak számok):"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:87
+msgid "Save Changes"
+msgstr "Változások  mentése"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:90
+msgid "A plugin by "
+msgstr "A bövítményt készítette:"
+
+#: c:\wamp\www\wp41b1\assets\modul\paging/settings.php:90
+msgid "Donation"
+msgstr "Felajánlás"
