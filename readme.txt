@@ -2,6 +2,7 @@
 Contributors: tomek00
 Tags: post paging, pagination, next and previous post, next post link, post navigation, navigation, previous post link
 Donate link: http://wp-learning.net/blog/felajanl
+Requires at least: 4.0
 Tested up to: 4.1.1
 Stable tag: trunk
 
@@ -21,6 +22,7 @@ None
 
 == Screenshots ==
 1. screenshot-1.png
+2. screenshot-2.png
 
 == Upgrade Notice ==
 Nothing
